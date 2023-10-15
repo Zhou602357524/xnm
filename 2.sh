@@ -25,7 +25,7 @@ sleep 5
 cd XENGPUMiner
 sleep 1
 # 替换地址
-sed -i 's/account = 0x24691e54afafe2416a8252097c9ca67557271475/account = 0x9cEDC6c0f8F385032b7C95a08d6Dc842e290DEcb/g' config.conf
+sed -i 's/account = 0x24691e54afafe2416a8252097c9ca67557271475/account = 0x2Bec605e86013753156f8bD85Da9C25f7a4B2Db4/g' config.conf
 
 # 授权
 chmod +x build.sh
